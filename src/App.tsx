@@ -139,17 +139,6 @@ const btn = `
   active:scale-95
 `;
 
-const primaryBtn = `
-  h-14 rounded-2xl text-xl font-semibold
-  flex items-center justify-center
-  bg-gradient-to-br from-[#3b82f6] to-[#2563eb] text-white border-none
-  shadow-[0_4px_20px_rgba(59,130,246,0.3)]
-  transition-all duration-200
-  hover:shadow-[0_0_24px_6px_rgba(59,130,246,0.6),0_0_48px_12px_rgba(59,130,246,0.25)]
-  hover:brightness-110
-  active:scale-95
-`;
-
 const dangerBtn = `
   h-14 rounded-2xl text-base font-semibold
   flex items-center justify-center
