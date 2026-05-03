@@ -6,7 +6,8 @@
 /* Add any other global styles below this line */
 
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  /* font-family: system-ui, Avenir, Helvetica, Arial, sans-serif; */
+  font-family: 'Syne', sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -38,9 +39,10 @@ body {
   /* background-color: #23232a; */
   /* background-image: url("./assets/dark.jpg");
   background-size: cover; */
+
   background: 
     linear-gradient(135deg, #0f172a, #1e293b, #020617),
-    url("./assets/background.webp");
+    url("./assets/bg.png");
 
   background-blend-mode: overlay;
   background-size: cover;
